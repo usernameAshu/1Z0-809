@@ -17,8 +17,8 @@ public class _6 {
 		Path p1 = Paths.get("demo1.txt");
 		Path p2 = Paths.get("demo2.txt");
 		
-//		Files.createFile(p1);
-//		Files.createFile(p2);
+		Files.createFile(p1);
+		Files.createFile(p2);
 		
 		boolean result = Files.isSameFile(p1, p2);
 		System.out.println(result);
