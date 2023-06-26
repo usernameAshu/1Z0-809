@@ -7,7 +7,7 @@ import java.io.File;
  * @author 002L2N744
  *
  */
-public class _6 {
+public class _6_file_list {
 
 	public static void main(String[] args) {
 		File file;

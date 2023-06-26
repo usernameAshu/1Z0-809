@@ -10,7 +10,7 @@ import java.io.PrintWriter;
  * @author 002L2N744
  *
  */
-public class _5 {
+public class _5_rename {
 
 	/**
 	 * @param args

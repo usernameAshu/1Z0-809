@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class _1 {
+public class _1_File {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

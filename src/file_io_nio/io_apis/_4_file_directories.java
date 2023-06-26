@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class _4 {
+public class _4_file_directories {
 
 	public static void main(String[] args) {
 		File file;

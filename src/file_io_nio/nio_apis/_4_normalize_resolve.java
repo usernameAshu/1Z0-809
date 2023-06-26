@@ -10,7 +10,7 @@ import java.nio.file.Paths;
  * @author 002L2N744
  *
  */
-public class _4 {
+public class _4_normalize_resolve {
 
 	public static void main(String[] args) throws IOException {
 		

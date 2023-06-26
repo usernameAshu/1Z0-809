@@ -10,7 +10,7 @@ import java.nio.file.Paths;
  * @author 002L2N744
  *
  */
-public class _6 {
+public class _6_isSameFile {
 
 	public static void main(String[] args) throws IOException {
 		

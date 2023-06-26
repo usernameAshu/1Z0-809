@@ -7,7 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class _1 {
+public class _1_createFile {
 
 	public static void main(String[] args) {
 		String str = "howdy java\n12 folks\n";

@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 
-public class _3 {
+public class _3_wrapper_reader {
 
 	public static void main(String[] args) {
 		

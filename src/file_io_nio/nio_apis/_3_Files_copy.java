@@ -12,7 +12,7 @@ import java.nio.file.StandardCopyOption;
  * @author 002L2N744
  *
  */
-public class _3 {
+public class _3_Files_copy {
 	
 	private static Path path1 = Paths.get("dir1/subdir1/sub_subdir1");
 	private static Path path1_file = Paths.get("dir1/subdir1/sub_subdir1", "file1.txt");

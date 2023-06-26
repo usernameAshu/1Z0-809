@@ -6,7 +6,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.charset.Charset;
 
-public class _2 {
+public class _2_io_stream {
 
 	public static void main(String[] args) {
 		String str = "Today we are opening\nLive Classes\nPlease join!";

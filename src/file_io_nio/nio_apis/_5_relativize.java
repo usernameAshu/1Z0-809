@@ -8,7 +8,7 @@ import java.nio.file.Paths;
  * @author 002L2N744
  *
  */
-public class _5 {
+public class _5_relativize {
 
 	/**
 	 * If any of the path type (relative/absolute) is different from the other 
