@@ -23,7 +23,7 @@ public class _91_move {
 			Files.createDirectory(srcDir);
 			Files.createFile(srcPath);
 			
-			writeToFile(srcPath, "Hello from file 1");
+			Files.writeString(srcPath, "Hello from file 1");
 			
 			destDir = Path.of("temp2");
 			//Files.createDirectory(destDir);
